@@ -15,7 +15,7 @@ function App() {
             o‘qitish
           </p>
         </div>
-        <a to="/" className="bg-btn">
+        <a to="/1" className="bg-btn">
           Batafsil
         </a>
       </div>
@@ -30,7 +30,7 @@ function App() {
             o‘qitish
           </p>
         </div>
-        <a to="/" className="bg-btn">
+        <a to="/2" className="bg-btn">
           Batafsil
         </a>
       </div>
@@ -45,7 +45,7 @@ function App() {
             o‘qitish
           </p>
         </div>
-        <a to="/" className="bg-btn">
+        <a to="/3" className="bg-btn">
           Batafsil
         </a>
       </div>
@@ -60,7 +60,7 @@ function App() {
             o‘qitish
           </p>
         </div>
-        <a to="/" className="bg-btn">
+        <a to="/4" className="bg-btn">
           Batafsil
         </a>
       </div>
