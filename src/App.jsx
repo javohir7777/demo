@@ -1,5 +1,5 @@
 // import { NavLink } from "react-router-dom";
-import bgImd from "./assets/Frame.svg";
+import bgImd from "./assets/Frame (1).png";
 import "./Card.scss";
 function App() {
   return (
